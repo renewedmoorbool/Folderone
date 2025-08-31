@@ -1,0 +1,1 @@
+There's only one specific reason to publish such a beginner project: I don't care. I just want to experiment, do it a lot and when the time will come I will also use the right tools in the right way. Right now I wrote this simple Python program with pre-built functions which just puts in the same folder same-prefixed files. 
